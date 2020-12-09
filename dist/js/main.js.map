@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://dummy/./source/main.js"],"names":["isTrue"],"mappings":";;;;;;;;AAAA,IAAIA,MAAM,GAAG,IAAb;;AACA,IAAIA,MAAJ,EAAY;AACV;AACD,C","file":"main.js","sourcesContent":["var isTrue = true;\nif (isTrue) {\n  import('./Slider.mjs');\n}"],"sourceRoot":""}
