@@ -39,6 +39,10 @@ function processJavaScript() {
             use: {
               loader: 'babel-loader',
               options: {
+                exclude: [
+                  /[\\/]node_modules[\\/]core-js/,
+                  /[\\/]node_modules[\\/]webpack[\\/]buildin/,
+                ],
                 babelrc: false,
               }
             },
