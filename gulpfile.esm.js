@@ -38,6 +38,9 @@ function processJavaScript() {
             test: /\.m?js$/,
             use: {
               loader: 'babel-loader',
+              options: {
+                babelrc: false,
+              }
             },
           },
         ],

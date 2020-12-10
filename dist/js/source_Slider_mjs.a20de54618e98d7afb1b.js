@@ -1,6 +1,6 @@
 (self["webpackChunkdummy"] = self["webpackChunkdummy"] || []).push([["source_Slider_mjs"],{
 
-/***/ "LDOc":
+/***/ "UOvO":
 /*!***************************!*
   !*** ./source/Slider.mjs ***!
   \***************************/
@@ -8,9 +8,9 @@
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "ZuBu");
-/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/createClass */ "DBg9");
-/* harmony import */ var swiper_dist_js_swiper_esm_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! swiper/dist/js/swiper.esm.js */ "O61u");
+/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "/cuv");
+/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/createClass */ "p87y");
+/* harmony import */ var swiper_dist_js_swiper_esm_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! swiper/dist/js/swiper.esm.js */ "NcQG");
 
 
 
@@ -49,4 +49,4 @@ new Example();
 /***/ })
 
 }]);
-//# sourceMappingURL=source_Slider_mjs.239afbde125d3f32e9af.js.map
+//# sourceMappingURL=source_Slider_mjs.a20de54618e98d7afb1b.js.map
